@@ -32,11 +32,10 @@ The goal is to enable analysis of:
 
 ## Objectives
 
-* Clean and preprocess raw data
-* Handle missing and inconsistent values
-* Design a normalized relational database
-* Organize data into multiple related tables
-* Enable analytical queries
+* Analyze hiring trends across companies, locations, and time
+* Understand job demand based on roles and experience levels
+* Evaluate job engagement using views and application metrics
+* Explore salary patterns across different job categories
 
 ---
 
