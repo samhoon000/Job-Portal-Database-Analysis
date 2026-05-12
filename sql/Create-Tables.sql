@@ -26,6 +26,7 @@ CREATE TABLE job_metrics (
 
 -- Create Salaries Table
 CREATE TABLE salaries(
+    job_id INT,
     min_salary FLOAT,
     max_salary FLOAT
 );
